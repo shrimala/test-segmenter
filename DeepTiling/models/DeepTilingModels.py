@@ -529,6 +529,7 @@ class DeepTiling:
         model = self.encoder
         tokenizer = self.tokenizer
         next_sentence_pred = self.next_sentence_prediction
+        scores = []
         
         if parameters['window']<1:
             try:
@@ -637,4 +638,5 @@ class DeepTiling:
             return {'segments': segments, 
                     'boundaries': boundaries,
                     'depth_scores': depth_scores,
-                    'embeddings': segmented_embs}
+                    'embeddings': segmented_embs,
+                    "scores": scores} 

@@ -15,6 +15,7 @@ import os
 import json
 import re
 from tqdm import tqdm
+from utils import write_docx
 
 
 def main(args):
@@ -155,6 +156,8 @@ def main(args):
             with open(os.path.join(args.out_directory,'segments', 'segment_'+str(i)+".txt"), 'w') as f:
                 f.writelines('%s\n' % sentence for sentence in segment)
             np.save(os.path.join(args.out_directory,'embeddings', 'segment_'+str(i)), results['embeddings'][i])
+        score_merged_text = [f"{k.replace('.', '')}" + "["+ str(round(v, 4)) + "]." for k,v in zip(data, results["scores"])]
+        write_docx(f"results/scores_update_wd{args.window_value}_th{args.threshold_multiplier}sample.docx", data = " ".join(score_merged_text))
         
     
     else:
@@ -210,10 +213,10 @@ if __name__=='__main__':
     parser = MyParser(
             description = 'Run segmentation with parameters defined in the relative json file')
     
-    parser.add_argument('--data_directory', '-data', type=str,
+    parser.add_argument('--data_directory', '-data', type=str, default="./data/textsamples",
                         help='directory containing the data to be segmented')
     
-    parser.add_argument('--config_file', '-cfg', default='parameters.json', type=str, 
+    parser.add_argument('--config_file', '-cfg', default='./DeepTiling/parameters.json', type=str, 
                         help='Configuration file defining the hyperparameters and options to be used in training.')
     
     parser.add_argument('--out_directory', '-od', default='results', type=str,
@@ -221,12 +224,12 @@ if __name__=='__main__':
     
     parser.add_argument('--window_value', '-wd', 
                         type=int,
-                        default=None, 
+                        default=10, 
                         help='Window value for the TextTiling algorithm, if not specified the programme will assume that the optimal value is stored in best_parameters.json file, previously obtained by running fit.py')
     
     parser.add_argument('--threshold_multiplier', '-th',
                         type=float,
-                        default=None,
+                        default=1,
                         help='Threshold multiplier for the TextTiling algorithm without known number of segments, if not specified the programme will assume that the optimal value is stored in best_parameters.json file, previously obtained by running fit.py')
     
     parser.add_argument('--number_of_segments', '-ns',

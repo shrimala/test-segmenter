@@ -6,6 +6,7 @@ import random
 from pathlib2 import Path
 from shutil import copy
 import docx2txt
+import docx
 
 
 config = {}
@@ -183,3 +184,9 @@ def read_file(path:str):
         with open(path, "r") as f:
             txt = f.read()
     return txt
+
+def write_docx(file_path_name:str, data:str):
+    doc = docx.Document()
+    doc.add_paragraph(data)
+    doc.save(file_path_name)
+    print("Saved :", file_path_name)
