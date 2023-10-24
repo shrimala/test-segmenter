@@ -1,0 +1,13 @@
+data/*
+results/embeddings
+results/segments
+text_manipulation.log
+train.log
+
+##DeepTiling
+*/__pycache__
+*/*/__pycache__
+.vscode
+.github
+data/*
+results/*
