@@ -1,0 +1,10 @@
+spacy
+docx2txt
+transformers
+torch
+pandas 
+numpy
+scikit-learn
+sentence-transformers
+nltk
+docx

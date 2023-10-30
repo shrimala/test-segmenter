@@ -1,6 +1,13 @@
 from deeptiling import DeepTiling
+
+
 class DeepTilingSegmentScorer:
-    def __init__(self, text_data, encoding_model, **kwargs) -> None:
+    def __init__(
+        self,
+        text_data,
+        encoding_model="sentence-transformers/paraphrase-xlm-r-multilingual-v1",
+        **kwargs
+    ) -> None:
         self.deep_tiling = DeepTiling(
             encoding_model=encoding_model,
             nxt_sentence_prediction=kwargs.get("nxt_sentence_prediction", False),
@@ -9,11 +16,11 @@ class DeepTilingSegmentScorer:
 
     def predict(self, text_data, **kwargs):
         output = self.deep_tiling.predict(
-            data=text_data,
+            sentences=text_data,
             parameters={
                 "window": kwargs.get("window", 10),
                 "threshold": kwargs.get("threshold", 1),
-            }
+            },
         )
         return output
 

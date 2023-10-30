@@ -1,7 +1,18 @@
 # text-segmenter
 A python library for segmenting text with controllable length 
 
-# Negative Binomial Distribution
-success: the successful placement of a section boundary within the text.
-failures: segments/sentences between section boundaries
-$$\\P(X = k) = \binom{k + r - 1}{k} \cdot (1-p)^r \cdot p^k$$
+
+## Installation
+
+### 1. create new environment and install requirement files
+```bash
+conda create -n segment python=3.9
+pip install -r requirements.txt
+```
+### 2. install spacy en-lang
+
+`python -m spacy download en_core_web_sm --target ./cache/`
+
+
+## run
+`python segment.py`

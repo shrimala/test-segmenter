@@ -9,20 +9,20 @@ All code related to the C99 algorithm is taken from https://github.com/intfloat/
 from transformers import BertTokenizer, BertForNextSentencePrediction
 import torch
 from sentence_transformers import SentenceTransformer
-import tensorflow as tf
-import tensorflow_hub as hub
+# import tensorflow as tf
+# import tensorflow_hub as hub
 import pandas as pd
 import numpy as np
 from sklearn.metrics.pairwise import cosine_similarity
 from nltk.metrics.segmentation import pk
 from nltk.metrics.segmentation import windowdiff
-import segeval
+# import segeval
 from sklearn.metrics import f1_score, precision_score, recall_score
 from sklearn.decomposition import PCA
-from umap import UMAP
+# from umap import UMAP
 import time
 import os
-
+from transformers import AutoTokenizer, AutoModel
 def create_sentence_pair(sentences):
   return ([s for s in sentences[:-1]]+["none"], ["none"]+[s for s in sentences[1:]])
 
@@ -76,7 +76,7 @@ def get_model(model_name, nxt_sentence_prediction = False):
         return (SBERT_model(use), None)
     
     else:
-        return (SentenceTransformer(model_name), None)
+        return (SentenceTransformer(model_name, cache_folder="cache"), None)
 
 class DeepTiling:
     
@@ -567,15 +567,15 @@ class DeepTiling:
                 embs = []
                 for index in range(len(sentences)):
                   if index<window:
-                    embs.append(model.encode(' '.join(sentences[:index+1])))
+                    embs.append(model.encode(' '.join(sentences[:index+1]), normalize_embeddings=True))
                   
                   else:
-                    embs.append(model.encode(' '.join(sentences[index-window+1:index+1])))
+                    embs.append(model.encode(' '.join(sentences[index-window+1:index+1]), normalize_embeddings=True))
                 embs = np.array(embs)
               elif precomputed_filename is not None:
                 embs = np.load(precomputed_filename)
               else:
-                embs = model.encode(sentences)
+                embs = model.encode(sentences, normalize_embeddings=True)
               if pca:
                 try: 
                     pca_obj = self.best_results['PCA_transformer']
@@ -639,4 +639,4 @@ class DeepTiling:
                     'boundaries': boundaries,
                     'depth_scores': depth_scores,
                     'embeddings': segmented_embs,
-                    "scores": scores} 
+                    "scores": [0.0] + scores} 

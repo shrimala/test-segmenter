@@ -3,6 +3,7 @@ results/embeddings
 results/segments
 text_manipulation.log
 train.log
+text_segmenter.egg-info
 
 ##DeepTiling
 */__pycache__
@@ -11,3 +12,5 @@ train.log
 .github
 data/*
 results/*
+cache
+__pycache__/
