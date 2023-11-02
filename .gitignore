@@ -6,7 +6,6 @@ train.log
 text_segmenter.egg-info
 
 ##DeepTiling
-DeepTiling
 */__pycache__
 */*/__pycache__
 .vscode
@@ -14,4 +13,5 @@ DeepTiling
 data/*
 results/*
 cache
+models/__pycache__
 __pycache__/

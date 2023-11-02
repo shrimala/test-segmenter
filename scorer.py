@@ -1,28 +1,27 @@
-from deeptiling import DeepTiling
+from DeepTiling.models.DeepTilingModels import DeepTiling
+import pandas as pd
 
 
-class DeepTilingSegmentScorer:
+class DeepTilingSegmentScorer(DeepTiling):
     def __init__(
         self,
+        parameters,
         text_data,
-        encoding_model="sentence-transformers/paraphrase-xlm-r-multilingual-v1",
-        **kwargs
-    ) -> None:
-        self.deep_tiling = DeepTiling(
-            encoding_model=encoding_model,
-            nxt_sentence_prediction=kwargs.get("nxt_sentence_prediction", False),
-        )
-        self.results = self.predict(text_data, **kwargs)
-
-    def predict(self, text_data, **kwargs):
-        output = self.deep_tiling.predict(
-            sentences=text_data,
-            parameters={
-                "window": kwargs.get("window", 10),
-                "threshold": kwargs.get("threshold", 1),
-            },
-        )
-        return output
+        encoding_model="paraphrase-xlm-r-multilingual-v1",
+        nxt_sentence_prediction=False,
+    ):
+        super().__init__(encoding_model, nxt_sentence_prediction)
+        self.text_data = text_data
+        self.parameters = parameters
 
     def get_scores(self):
-        return self.results["scores"]
+        embs = self.encoder.encode(self.text_data)
+        embs = pd.DataFrame(embs)
+        scores, depth_scores = self.compute_depth_score(
+            embs,
+            window=self.parameters.get("window", 10),
+            clip=self.parameters.get("clip", 2),
+            single=self.parameters.get("multi_encode", False),
+            smooth=self.parameters.get("smooth", False),
+        )
+        return [0.0]+scores

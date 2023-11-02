@@ -1,6 +1,7 @@
 import spacy
 import docx2txt
 import docx
+from pathlib import Path
 
 def divide_into_sentences(input_text):
     nlp = spacy.load("cache/en_core_web_sm/en_core_web_sm-3.7.0")
@@ -21,5 +22,7 @@ def read_file(path:str):
 def write_docx(file_path_name:str, data:str):
     doc = docx.Document()
     doc.add_paragraph(data)
+    if not Path(file_path_name).exists():
+        Path(file_path_name).parent.mkdir(exist_ok=True)
     doc.save(file_path_name)
     print("Saved :", file_path_name)
