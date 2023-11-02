@@ -14,4 +14,3 @@ data/*
 results/*
 cache
 models/__pycache__
-__pycache__/
