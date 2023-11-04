@@ -8,3 +8,8 @@ scikit-learn
 sentence-transformers
 nltk
 docx
+
+#experiment tools
+beautifulsoup4
+langchain
+pdfminer.six
