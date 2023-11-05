@@ -4,6 +4,7 @@ results/segments
 text_manipulation.log
 train.log
 text_segmenter.egg-info
+experimens/books
 
 ##DeepTiling
 */__pycache__
