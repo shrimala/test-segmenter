@@ -135,3 +135,7 @@ Weight of Elliptic Springs.
 ========
 [90]
 ========
+FOOTNOTES:
+========
+[1] It is the plates that are tempered and hardened, not the spring.
+========

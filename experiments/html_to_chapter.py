@@ -64,6 +64,7 @@ def chapterwise_doc_splitter(file):
 
     doc_idx = 0
     chapter_name = None
+    chapter_count = 0
     for doc_idx in range(len(docs_splits)):
         doc = docs_splits[doc_idx]
 
@@ -74,14 +75,15 @@ def chapterwise_doc_splitter(file):
             chapters[chapter_name] = doc
             continue
         if (
-            chap.lower().startswith(book_end_2)
-            or chap.lower().startswith(book_end_1.lower())
-            or chap.lower().startswith(book_end_4.lower())
+            (chap.lower().startswith(book_end_2) and chapter_count>=len(chapters))
+            or (chap.lower().startswith(book_end_1.lower()) and chapter_count>=len(chapters))
+            or (chap.lower().startswith(book_end_4.lower()) and chapter_count>=len(chapters))
             or book_end_3 in doc
         ) and chapter_name is not None:
             break
         if chap.lower().startswith("chapter ") or doc.lower().startswith("section "):
             chapter_name = chapter_name_capitalize(chap)
+            chapter_count +=1
             if book_content_title_end_idx == 0:
                 chapters[chapter_name] = ""
         doc = " ".join(doc.split("\n"))
@@ -100,6 +102,7 @@ def chapterwise_doc_splitter(file):
     return chapters
 
 if __name__ == "__main__":
-    for path in glob("experimens/books/*.html"):
+    for path in glob("experiments/books/*.html"):
         print(path)
         chapterwise_doc_splitter(path)
+    # chapterwise_doc_splitter("experiments/books/A PRACTICAL TREATISE ON COACH-BUILDING _ Project Gutenberg.html")

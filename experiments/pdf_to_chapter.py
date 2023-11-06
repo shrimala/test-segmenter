@@ -91,4 +91,4 @@ def get_chapter_docs(path_dir):
 
 if __name__ == "__main__":
     chapters = get_chapter_docs("experimens/books")
-    json.dump({"chapters": chapters}, open("experimens/books/chapters.json", "w"))
+    json.dump({"chapters": chapters}, open("experiments/books/chapters.json", "w"))
