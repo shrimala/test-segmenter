@@ -1,0 +1,141 @@
+
+CHAPTER VIII.
+========
+SPRINGS.
+========
+Springs in locomotive vehicles are the elastic substances interposed between the wheels and the load or passengers in order to intercept the concussion caused by running over an uneven road, or in meeting with any slight obstacle.
+========
+A great variety of substances have been used for this purpose, such as leather, strips of hide, catgut, hempen cord, &c.; but these have now been totally superseded by metal springs, so that what is technically understood by the word “spring” is a plate or plates of tempered steel properly shaped to play in any required mode.
+========
+It is very probable that the earliest steel springs were composed of only one plate of metal. This was very defective in its action; and unless it was restrained somewhat in the manner of the bow by the string, it was liable to break on being subjected to a sharp concussion.
+========
+There is no hard and fast rule by which the spring-maker can be guided so as to proportion the strength and elasticity of his springs to the load they are required to bear; and even were such a rule in existence it would be practically useless, because the qualities of spring steel differ so much that what is known in mathematics as a “constant” could hardly be maintained. The only guide to the maker in this respect is observation of the working of certain springs under given loads, such springs being made of a certain quality of steel, and any peculiar features that appear should be carefully noted down for future reference and application.
+========
+[83]
+========
+Springs are of two kinds, single and double; i.e. springs tapering in one direction from end to end, and those which taper in two opposite directions from a common centre, as in the ordinary elliptic spring.
+========
+The process of making a spring is conducted in the following manner:—
+========
+The longest or back plate being cut to the proper length, is hammered down slightly at the extremities, and then curled round a mandrel the size of the suspension bolt. The side of the plate which is to fit against the others is then hollowed out by hammering; this is called “middling.” The next plate is then cut rather shorter than the first; the ends are tapered down so as not to disturb the harmony of the curve. This plate is middled on both sides. A slit is then cut at each end about ¾ of an inch in length and ⅜ inch wide, in which a rivet head slides to connect it with the first plate, so that in whatever direction the force acts these two plates sustain each other. At a little distance from this rivet a stud is formed upon the under surface by a punch, which forces out a protuberance which slides in a slit in the next plate. The next plate goes through precisely the same operations, except that it is 3 or 4 inches shorter at each end, and so on with as many plates as the spring is to consist of. The last plate, like the first, is of course only middled on one side.
+========
+The plates of which the spring is to be composed having thus been prepared, have next to undergo the process of “hardening” and “tempering.” This is a very important branch of the business, and will bear a detailed description. There is no kind of tempering which requires so much care in manipulation as that of springs. It is necessary that the plates be carefully forged, not over-heated, and not hammered too cold; one is equally detrimental with the other. To guard against a plate warping in tempering, it is requisite that both sides of the forging shall be equally well wrought[84] upon with the hammer; if not, the plates will warp and twist by reason of the compression on one side being greater than on the other.[1]
+========
+The forge should be perfectly clean, and a good clean charcoal fire should be used. Or if coal be used it must be burned to coke in order to get rid of the sulphur, which would destroy the “life” of the steel. Carefully insert the steel in the fire, and slowly heat it evenly throughout its entire length; when the colour shows a light red, plunge it into lukewarm water—cold water chills the outer surface too rapidly—and let it lie in the water a short time. Animal oil is better than water; either whale or lard oil is the best, or lard can be used with advantage. The advantage of using oil is that it does not chill the steel so suddenly, and there is less liability to crack it. This process is called “hardening.”
+========
+Remove the hardened spring-plate from the water or oil and prepare to temper it. To do this make a brisk fire with plenty of live coals; smear the hardened plate with tallow, and hold it over the coals, but do not urge the draught of the fire with the bellows while so doing; let the fire heat the steel very gradually and evenly. If the plate is a long one, move it slowly over the fire so as to receive the heat equally. In a few moments the tallow will melt, then take fire, and blaze for some time; while the blaze continues incline the plate, or carefully incline or elevate either extremity, so that the blaze will circulate from end to end and completely envelop it. When the flame has died out, smear again with tallow and blaze it off as before. If the spring is to undergo hard work the plates may be blazed off a third time. Then let them cool themselves off upon a corner of the forge; though they are often cooled by immersion in water, still it is not so safe as letting them cool by themselves.
+========
+After tempering the spring-plates are “set,” which consists in any warps or bumps received in the foregoing processes[85] being put straight by blows from a hammer. Care should be taken to have the plates slightly warm while doing this to avoid fracturing or breaking the plates.
+========
+The plates are now filed on all parts exposed to view, i.e. the edges and points of the middle plates, the top and edges of the back plate, and the top and edges of the shortest plate. They are then put together and a rivet put through the spring at the point of greatest thickness, and this holds, with the help of the studs before mentioned, the plates together.
+========
+It is evident from the above description of a common mode of making springs, that the operation is not quite so perfect as it might be. The plates, instead of being merely tapered at the ends, ought to be done so from the rivet to the points. And another thing, it would surely make a better job of it if the plates were to bear their whole width one on the other; in the middled plates they only get a bearing on the edges, and the rain and dust will inevitably work into the hollows in the plates, and it will soon form a magazine of rust, and we all know what an affinity exists between iron and oxygen and the result of it; as far as carriage springs are concerned, it very soon destroys their elasticity and renders them useless and dangerous.
+========
+To prevent oxidation some makers paint the inner faces of the springs, and this is in a measure successful, but the play of the spring-plates one upon the other is sure to rub off some portions of the paint, and we are just as badly off as ever. A far better plan would be to cleanse the surfaces by means of acid, and then tin them all over, and this would not be very expensive, and certainly protect the plates of the spring longer than anything else.
+========
+The spiral springs, used to give elasticity to the seats, &c., are tempered by heating them in a close vessel with bone dust or animal charcoal, and, when thoroughly heated, cooled in a bath of oil. They are tempered by putting them into an iron pan with tallow or oil, and shaking them about over a[86] brisk fire. The tallow will soon blaze, and keeping them on the move will cause them to heat evenly. The steel springs for fire-arms are tempered in this way, and are literally “fried in oil.” If a long slender spring is needed with a low temper, it can be made by simply beating the soft forging on a smooth anvil with a smooth-faced hammer.
+========
+Setting and Tempering old Springs.
+========
+In setting up old springs where they are inclined to settle, first take the longest plate (having separated all the plates) and bring it into shape; then heat it for about 2 feet in the centre to a cherry red, and cool it off in cold water as quick as possible. This will give the steel such a degree of hardness that it will be liable to break if dropped on the floor. To draw the temper hold it over the blaze, carrying backward and forward through the fire until it is so hot that it will sparkle when the hammer is drawn across it, and then cool off.
+========
+Another mode is to harden the steel, as before stated, and draw the temper with oil or tallow—tallow is the best. Take a candle, carry the spring as before through the fire, and occasionally draw the candle over the length hardened, until the tallow will burn off in a blaze, and then cool. Each plate is served in the same way.
+========
+Varieties of Springs.
+========
+The names given to springs are numerous, but the simple forms are few, the greater part of the varieties being combinations of the simple forms.
+========
+Fig. 26.
+========
+The simple forms are the elliptic spring, the straight spring, and the regular curve or C spring (Fig. 25). There are also one or two forms of spring which have become obsolete. Such are the whip spring (Fig. 26), and the reverse curved spring, which was superseded by the last.
+========
+The elliptic spring is the one most commonly used at the[87] present day. Fig. 27, b, shows two of these united at the extremities by means of a bolt; this is called a double elliptic spring. The elliptic spring is sometimes used single in what are called under-spring carriages, where the spring rests on the axle and is connected with the framework of the body with an imitation spring or dumb iron to complete the ellipse. Its technical name is an “under-spring.”
+========
+When four pairs of these springs are hinged together so as to form four ellipses they constitute a set, and are used in carriages without perches. Their technical name is “nutcracker spring.”
+========
+The straight springs are used in phaetons and tilburies, and are called “single-elbow springs.”
+========
+The double straight spring is used in omnibuses, carts, &c., where it is fixed across the angle at right angles. It is called a “double-elbow spring.”
+========
+The regular curved spring is in form generally two-thirds of a circle, one end of which is lengthened out into a tangent, which serves as a base to fix it by in an upright position; the body is suspended from the other extremity by means of leathern braces. Its general figure has caused it to acquire the technical name of C spring. (See Fig. 25.)
+========
+The combination known as “telegraph spring” consists of eight straight springs, when used for a four-wheeled carriage, and four springs for a two-wheeled carriage. The[88] Stanhope is suspended on four of these springs. Two springs are fixed longitudinally on the framework, and two transverse ones are suspended from these by shackles, and on these latter the weight rests. They will bear a great weight, and the body has the advantage of being placed two removes from the concussion.
+========
+[89]
+========
+Fig. 27 shows some varieties of springs.
+========
+a Has semi-elliptical springs, hung upon the ends of C springs attached to the axles.
+========
+b Has the usual elliptical springs between the bolster and axle.
+========
+c Has elastic wooden springs, which connect the axles and support the beds.
+========
+d Has some elliptical springs, which also couple the axles A and B.
+========
+e Has a bolster hung upon C springs.
+========
+f Is a system of curved springs, with three points of connection to the bed and two to the axles.
+========
+Weight of Elliptic Springs.
+========
+1¼ × 3 × 36    inch,    weight about    28    lbs.    per pair. 
+========
+ 1¼ × 4 × 36   „   „   34   „   „ 
+========
+ 1¼ × 4 × 38   „   „   36   „   „ 
+========
+ 1½ × 3 × 36   „   „   37   „   „ 
+========
+ 1½ × 4 × 36   „   „   41   „   „ 
+========
+ 1½ × 4 × 38   „   „   45   „   „ 
+========
+ 1½ × 5 × 36   „   „   48   „   „ 
+========
+ 1½ × 5 × 38   „   „   51   „   „ 
+========
+ 1½ × 5 × 40   „   „   54   „   „ 
+========
+ 1¾ × 4 × 36   „   „   49   „   „ 
+========
+ 1¾ × 4 × 38   „   „   52   „   „ 
+========
+ 1¾ × 4 × 40   „   „   55   „   „ 
+========
+ 1¾ × 5 × 36   „   „   56   „   „ 
+========
+ 1¾ × 5 × 38   „   „   60   „   „ 
+========
+ 1¾ × 5 × 40   „   „   64   „   „ 
+========
+ 1¾ × 6 × 36   „   „   64   „   „ 
+========
+ 1¾ × 6 × 38   „   „   68   „   „ 
+========
+ 1¾ × 6 × 40   „   „   73   „   „ 
+========
+ 2    × 4 × 36   „   „   58   „   „ 
+========
+ 2    × 4 × 38   „   „   62   „   „ 
+========
+ 2    × 4 × 40   „   „   65   „   „ 
+========
+ 2    × 5 × 36   „   „   63   „   „ 
+========
+ 2    × 5 × 38   „   „   67   „   „ 
+========
+ 2    × 5 × 40   „   „   72   „   „ 
+========
+ 2    × 6 × 36   „   „   75   „   „ 
+========
+ 2    × 6 × 38   „   „   78   „   „ 
+========
+ 2    × 6 × 40   „   „   85   „   „
+========
+[90]
+========
+FOOTNOTES:
+========
+[1] It is the plates that are tempered and hardened, not the spring.
+========

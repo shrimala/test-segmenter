@@ -1,0 +1,201 @@
+
+CHAPTER VII.
+========
+AXLES.
+========
+An axle, or an axletree, for a locomotive wheel vehicle, is that portion of wood or metal, or both combined, which serves as the axis or centre for the wheels to turn round on.
+========
+The name axle-tree at once indicates the substance originally employed for it, viz. wood. Axletrees are of two kinds; those which are fixed firmly in the wheels and revolve in gudgeons beneath the wheels, and those in which the wheel moves independently of the axle. The former, as being the rudest, was probably the first kind used. The earliest fixed axletrees were simply pieces of hard timber, with the ends rounded down into a conical form, that form being the easiest to fit to the wheel. Subsequently they were plated with iron to resist wear.
+========
+In the earliest iron axles the conical form was still preserved, for the obvious reason of easy adjustment to the wheel. These iron axles were not made in a solid piece, but were merely short ends bedded in and bolted to a wooden centre. Examples of these axles may still be seen in heavy carts and waggons.
+========
+The next improvement was to make the axles of a single bar of iron, and this practice has now become common. An axle is technically divided into three parts—the two arms, or extremities, on which the wheel revolves, and the bed, or that portion which connects the two arms together. The commonest axles, which are manufactured for the sake of greater cheapness, are formed of a square bar simply rolled[71] to shape between mill rollers. This iron is uncertain in its quality, as it is liable to have sand cracks, blisters, and other imperfections, which cause axletrees when made from it to break down under strong concussion. To guard against this, the best axletrees are formed of several flat bars or rods of iron welded together in a mass; this is technically called “faggoting.” If you wish to discover whether an axle has been made in this way heat it to a red heat, and if it has been faggoted the grain or lines of the rods of iron running in different directions will be plainly discerned. The size is regulated by the weight it is intended to carry.
+========
+For a very heavy coach from 2 to 2¼ inches in diameter and 10 to 11 inches long in the arm is a fair size. For light carriages, both four and two-wheeled, 1½ inches in diameter and 8 inches length in the arm is a common size. Occasionally some are made as small as 1¼ inches in diameter. It should be remarked that a less size of axle would perform the work required of it if it were stationary, as in mill-work; but for locomotive vehicles it is necessary to provide against the greatest concussion they can meet with in ordinary application.
+========
+When iron axles were first used it was customary to drive an iron ring or hoop, 2 or 3 inches broad, into either end of the nave, to prevent too rapid wear. This plan is still used occasionally in heavy carts, but otherwise axles are always fitted with iron boxes, adjusted to the arms with more or less accuracy, according to the price and the material used for lubrication. For the prevention of friction in wooden axles soap or black-lead is the best materials; for common, coarse axles, a thick unctuous grease is the best adapted; but for axles that are accurately made and fitted to the boxes there is no lubricating material equal to oil of the purest kind which can be prepared, i.e. freest from mucilage or gelatine, according as it may be of vegetable or animal production.
+========
+[72]
+========
+The commonest axles now used are of a conical form, with a box of plate iron fitted to them. This box is made by welding the two edges of the iron together in a broad projecting seam, which helps to secure it to the nave. The inside of the box is sunk into hollows for the purpose of holding the lubricating grease. At the upper end of the arm the axle is left square, and against this a large iron washer is usually shrunk on hot. Against this washer the box works. To secure the wheel against coming off a small iron collar is placed on the reduced outer end of the arm, and a linch-pin is driven through the arm beyond it.
+========
+An improvement on this kind of axle is when the collar at the upper end or shoulder is made solid by welding, and a screw nut with a linch-pin through it is substituted for the collar and linch-pin. These nuts are commonly made six-sided, with a mortise or slot for the linch-pin through each side, in order to afford greater facility for adjustment. In all other particulars this axle is the same as the last, except that it is occasionally case-hardened to prevent wear and friction.
+========
+In travelling, these axles require to be fresh greased every two or three days, and the trouble thus caused is very considerable, besides the risk of omission, in which case the axle is likely to be entirely spoiled.
+========
+The commonest kind of oil axle is called the “mail,” because the peculiar mode of fastening was first used in the mail coaches. The arm is not conical, but cylindrical, in the improved kind. At the shoulder of this axle a solid disc collar is welded on for the box to work against. Behind this shoulder collar revolves a circular flange-plate of wrought iron, pierced with three holes corresponding with holes in the wheel from front to back, through which long screw-bolts are driven, and their nuts screwed sufficiently tight against the circular flange-plate to allow easy motion. The wheel, when in motion, thus works round the shoulder collar,[73] while the flange-plate secures it against coming off. This is not neat or accurate, but it is simple and secure, and no nut or linch-pin is required to the axle in front, while the front of the nave can be entirely covered in. When screwed up for work, a washer of thick leather is placed between the shoulder collar and the box, and another between the shoulder collar and the circular disc, which extends over the whole surface of the back of the nave. The box of this axle is of cast iron. The front is closed with a plate of metal, between which and the end of the axle-arm a space is left of about 1 inch as a reservoir for oil, which is poured in through a tube passing through the nave of the wheel and closed by a screw pin. At the back of the box there is a circular reservoir for oil, ¾ inch in depth and ½ inch wide. When the wheel is in motion the revolving of the box keeps the lubricating material in circulation between the two reservoirs; any portion getting below the arm at the shoulder gradually works its way out and is wasted. The oil in the back reservoir does not waste by leakage so rapidly as that in the front; but when the leather washer becomes saturated with water the oil is liable, by reason of its lightness, to float on the water in or about the washer, and thus get wasted.
+========
+This axle requires frequent examination when very much in use; but as it is neat in appearance, and under ordinary circumstances tolerably safe in working, and is not very expensive, it is much used. Both axle-box and axle-arm are case-hardened.
+========
+The other kind of axle used by carriage-builders is that known as “Collinge’s Patent.” The original intention of the inventor was to make it a cylindrical arm, with the box running round it against a coned shoulder, and secured by a coned nut in front; but, as it was found in practice that a leather washer was necessary at the shoulder to prevent jarring, this part of the plan was abandoned.
+========
+[74]
+========
+The commonest form of this axle now in use consists of a cylindrical arm with a broad shoulder collar. The box is of cast iron, and the back of it is similar to that of the mail axle before described. The front of it has a rebate cut in the box to receive a small conical collar and the screw of an oil cap. The arm of the axle is turned down in the lathe to two-thirds of the total thickness from the point where the rebate of the box begins. A flat side is filed on this reduced portion, and along it is made to slide a small collar of gun metal, with a conical face in the interior to fit against the coned interior of the rebate in the box. Against this collar, technically called the “collet,” a nut of gun metal is screwed, and against that again a second nut of smaller size, with a reversed thread, is tightly fixed. These two nuts, thus screwed in different directions, become as firm as though they were part of the axle itself, and no action of the wheel can loosen them, because the collet, which does not turn, removes all friction from them. But, as a further security, the end of the axle-arm projects beyond the farthest nut, and is drilled to receive a spring linch-pin. Over all a hollow cap of gun metal is screwed into the end of the box. This contains a supply of oil for lubricating purposes.
+========
+When the wheel is in motion the oil is pumped upwards from the cap and passes along the arm to the back reservoir, constantly revolving round the cap with the wheel. If the cap be too full of oil—that is, if the summit of the column of oil in the cap be at a horizontal level above the leakage point at the shoulder—it will pump away rapidly, and be wasted till it comes to the level of the leak, where it will be economically used. It is essential to the perfection of an oil action that the oil should not be permanently above the level of the leak, but that small portions should be continually washing up into that position by the action of the wheel in turning.
+========
+In order to insure their greater durability and freedom[75] from friction these axles and their boxes are always case-hardened, i.e. their rubbing surfaces are converted into steel to a trifling depth by the process of cementation with animal charcoal for about two hours, when they are plunged into water. The boxes are ground on to the arms with oil and emery, either end being applied alternately, until a true fit between the two is accomplished.
+========
+The mode in which oil acts as a lessener of friction is by its being composed of an infinite number of movable globules, over which the fixed surfaces of the arm and box roll without causing that friction and wearing away which would be the result of the two iron surfaces worked together without any lubricant. This saving in the wear and tear of the axle-arm is accomplished by the destruction of the oil. From this we deduce that the greater the mass of oil or grease used the longer will the axle run, and in order to facilitate this as much as possible there should be so much space left between the bearing surfaces of the arm and the box as will allow of a film of oil to be between them.
+========
+A highly polished surface is desirable in an axle and box, as the bearing is more perfect and true. A rough surface is a surface of sharp angles, which will pierce through the oil and cause friction by contact.
+========
+To guard against the axle running dry, the arm is reduced in thickness at the centre for about an inch to allow a lodgment for the oil, and in the process of working this constitutes a circular pump, which draws up the oil from the front cap and distributes it over the area of the arms. But this, of course, will soon run dry, so that the best remedy to prevent the oil being exhausted and the sticking of the axle-arm in the box is careful attention.
+========
+A danger arising from careless fitting is the introduction of grit into the box. This grit is composed of small grains of silex, which is very much harder than iron or steel; the consequence is that it cuts and scores the bearing surfaces in[76] all directions, and keys them firmly together, so that it is sometimes necessary to break the box to pieces in order to get it off the arm.
+========
+A patent was taken out to remedy these defects by casting three longitudinal triangular grooves in each box. The advantages gained by this are, that if grit gets in it finds its way to the bottom of the grooves and does not interfere with the action of the wheel, and, moreover, the grooves keep up a constant surface of oil in contact with the arm, instead of trusting to the mere capillary attraction. This does not interfere with the bearing surface in any marked degree.
+========
+In order that the axle shall be perfect the following considerations are necessary:—
+========
+That there be sufficient bearing surface for the arm to rest on.
+========
+That the box be of a convenient shape for insertion in the wheel.
+========
+That as large a body of oil as possible be kept in actual contact with the arm by washing up as the wheel revolves.
+========
+That the column of oil may be in no case above the horizontal level of the leakage point while the wheel is at rest.
+========
+Welding Steel Axles.
+========
+Many axles are now made of Bessemer steel. Generally speaking this is neither more nor less than iron, the pores of which are filled up with carbon or charcoal. The higher the steel the more carbon it contains. If steel be heated it loses a portion of this carbon, and the more it is heated the more it approaches its original state, viz. iron.
+========
+The welding of steel axles is said to be considerably assisted by the use of iron filings and borax. This is only true in case the steel should be over-heated, and even then only in degree.
+========
+Borax by itself is a very useful adjunct to this process, and it should have a small quantity of sal-ammoniac added, to[77] assist its fusion or melting. The furnace or fire, which is to be used for the welding process, should be clean and free from new coal, to prevent sulphur getting on the steel. Of course, all coal has more or less sulphur in it; but iron or steel cannot be successfully welded when there is much sulphur in the fire, so it is well to be as careful in this respect as possible.
+========
+Place the ends of the axles in a clean bright fire, heat to a bright red heat, take them out, lap them over each other, and give them a few smart blows with the sledge. Now well cover them with powdered borax, and again put them into the fire and cover them up with coked coal, give a strong even blast, and carefully watch the appearance of the steel as the heat penetrates it, and see that all parts of the weld are equally well heated. When the heat is raised as high as the steel will safely bear (this knowledge can only be gained by experience, so no rule can be given for ascertaining the degree of heat, as it varies with the quality of the steel) take them out. Have two men ready to use the sledges. Place the axles on the anvil, securing them to prevent their slipping, and while one man places his hammer full on the weld, give the extremity of the lap or weld a smart blow or two, and if it adheres then both sledges can be applied until a true and workmanlike weld is formed.
+========
+It sometimes happens that when the axles are heated ready for welding and lapped, a light or a heavy blow, instead of uniting the laps, only jars them apart. This is a sure sign that they have been over-heated, and in this case it will be very difficult to form a weld at all. The only way of getting over this difficulty is to heat it to as high a degree as necessary, and put it in a vice and screw it up; the surfaces will adhere in this way when the other means fail.
+========
+Another cause of failure is the too free use of borax. If too much is used, it melts and runs about in the fire, unites with the dirt, and generally blocks up the nozzle of the blast,[78] causing a great deal of trouble to dislodge. If the blast is not sufficient, then less heat is generated than is necessary, and it is impossible to form a good weld unless sufficient heat is applied.
+========
+Steel axles do not find great favour with the trade, although a large quantity of them are used. They are unreliable, breaking and fracturing without a moment’s warning, whereas an axle of faggoted iron would only twist under the same circumstances, and could easily be re-forged and set right again.
+========
+Setting Axles.
+========
+Setting axles is giving them the bend and slope required, in order to fall in with the principles of the dished wheel. It is chiefly applied to the axle-arm, and this is the most important part, setting the beds being mere caprice.
+========
+The great object to be obtained is, to give the arm the right pitch every way, to make the carriage run easy and as light as possible, even in the absence of a plumb spoke. All carriages do not look best, when running, with the bottom spoke plumb or vertical. In some of the heavier coaches or carriages more slope or “pitch” has to be given to the arm to carry the wheel away from the body, so as to bring them to some specified track, in order to suit some particular customer, so that we must be governed by circumstances.
+========
+There is a patent “axle-set,” but it is not of much assistance, for half the smiths know nothing about it, and if they did it would not be generally used, as the advantages derived from its use are not equal to the trouble of using it. Besides, the wheels are not always dished exactly alike, and it would require adjusting to each variety of wheel; and again, the wheels are not always (though they ought to be) ready; and when the smith knows the sort of vehicle he is working upon he can give his axles the required pitch, within half a degree or so, and the patent axle-set is, unfortunately, not capable of being adjusted to an idea.
+========
+[79]
+========
+Fig. 21 shows a contrivance for setting the axles when cold, and consists of an iron bar
+========
+A, 2 feet 1 inch long, and about 2 inches square at the fulcrum
+========
+B. A hole is punched through the end to allow the screw
+========
+C to go through; this hole to be oval, to allow the screw to move either way. At the end of this screw is an eye of sufficient size to go on to the axle-arm. In setting the axle the eye is slipped on to about the centre of the arm; the clevis,
+========
+D, is placed on the bar
+========
+A, near the end; the fulcrum,
+========
+B, is placed at the shoulder, either on top or underneath, according as the axle may be required to set in or out. When the fulcrum is laid on top, a strip of harness leather should be placed on the axle bed, and on that, an iron
+========
+E, of the shape of the axle bed, and on the end of this the fulcrum is placed; then by turning the screw the axle may be bent or set to any required pitch.
+========
+[80]
+========
+The figure shows the two ways of doing this, one with the bar or lever on top and the other with the lever below.
+========
+Figs. 22 and 23 show two improved forms of axles.
+========
+Fig. 24 shows another variety of the axle-set. It consists of a bar hooked on to the axletree in two places. The bar is fastened by the clamp
+========
+M, and fulcrum block
+========
+F. The eyebolt,
+========
+L, is hooked over the end of the spindle or arm, and the adjustment of the latter is accomplished by the screw,
+========
+S, and the nuts
+========
+J,
+========
+K.
+========
+Weight of Round Iron per Foot.
+========
+Diameter.    Inch.   lbs.   Diameter.    Inch.   lbs. 
+========
+  ¼    ·163   2⅜   14·7 
+========
+  ⅜    ·368   2½   16·3 
+========
+  ½    ·654   2⅝   18·0 
+========
+  ⅝   1·02   2¾   19·7 
+========
+  ¾   1·47   2⅞   21·6 
+========
+  ⅞   2·00   3   23·5 
+========
+ 1   2·61   3⅛   25·5 
+========
+ 1⅛   3·31   3¼   27·6 
+========
+ 1¼   4·09   3⅜   29·8 
+========
+ 1⅜   4·94   3½   32·0 
+========
+ 1½   5·89   3⅝   34·4 
+========
+ 1⅝   6·91   3¾   36·8 
+========
+ 1¾   8·01   4   41·8 
+========
+ 1⅞   9·20   4¼   47·2 
+========
+ 2   10·4   4½   53·0 
+========
+ 2⅛   11·8   5   65·4 
+========
+ 2¼   13·2
+========
+[81]
+========
+Weight of Square Iron per Foot.
+========
+Side of Square.    Inch.   lbs.   Side of Square.    Inch.   lbs. 
+========
+  ¼    ·208   2⅜   18·8 
+========
+  ⅜    ·468   2½   20·8 
+========
+  ½    ·833   2⅝   22·9 
+========
+  ⅝   1·30   2¾   25·2 
+========
+  ¾   1·87   2⅞   27·5 
+========
+  ⅞   2·55   3   30·0 
+========
+ 1   3·33   3⅛   32·5 
+========
+ 1⅛   4·21   3¼   35·2 
+========
+ 1¼   5·20   3⅜   37·9 
+========
+ 1⅜   6·30   3½   40·3 
+========
+ 1½   7·50   3⅝   43·8 
+========
+ 1⅝   8·80   3¾   46·8 
+========
+ 1¾   10·2   4   53·3 
+========
+ 1⅞   11·7   4¼   60·2 
+========
+ 2   13·3   4½   67·5 
+========
+ 2⅛   15·0   5   83·3 
+========
+ 2¼   16·8
+========
+[82]
+========

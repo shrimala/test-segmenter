@@ -1,0 +1,17 @@
+data/*
+results/embeddings
+results/segments
+text_manipulation.log
+train.log
+text_segmenter.egg-info
+
+##DeepTiling
+*/__pycache__
+*/*/__pycache__
+.vscode
+.github
+data/*
+results/*
+cache
+models/__pycache__
+__pycache__

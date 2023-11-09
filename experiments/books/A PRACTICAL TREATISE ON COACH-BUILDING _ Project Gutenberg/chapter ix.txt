@@ -1,0 +1,77 @@
+
+CHAPTER IX.
+========
+WHEEL-PLATES AND FORE-CARRIAGES.
+========
+The following is given in the “Coachmaker’s Handbook” under the heading of “Short and Easy Turning:”—
+========
+“To bring a carriage into a different course from a straight one requires a circular motion, and at half a turn a carriage has established itself in a right angle to its position when at rest.
+========
+“A two-wheeled vehicle turns on one wheel, which forms the centre at the place where it touches the ground, and the opposite wheel forms the circle struck from the said centre. The body in this instance follows the circular motion exactly as the axle, and consequently maintains a steady position above the wheels.
+========
+“A four-wheeled vehicle remains in a straight line when first the front pair of wheels are turned under, then by the effect of the draught the hind pair of wheels follow in a wider circle. To effect a turning we bring the front axle first in a corresponding direction with the desired turn.
+========
+“We make distinction between the moment of turning, or the angular position of the axles previous to the turning itself, and the effected turning of a vehicle round a centre or king bolt, according to the construction of the carriage part. The wheels have to be brought in a position corresponding with the direction of the turning. The body must be fully supported after the turning, and the front or dickey of a carriage must stand in a right angle to fore axletree.
+========
+[91]
+========
+“We have to consider a few points relative to the height of the front wheel, and the elevation of the body above the ground, which averages 30 inches. To give a front wheel its proper height (between 3 feet 4 inches and 3 feet 6 inches) and have it turn a full circle, we sweep the body at the required place, viz. put in the wheel house of a proportioned length, and a depth between 3 and 4½ inches.
+========
+“The front carriage part is fastened round the king bolt, turning that part horizontal. This action causes the front wheel to describe a circle, whose diameter is the width of the track; but as the wheel leans over at the top through the dish, we have a larger circle in the middle and top of the wheel. We, therefore, first find a top circle, having a diameter equal to the width between the highest point of the wheel, and a side circle following the termination of the cross diameter of the wheel, having as a centre the king bolt.”
+========
+Fig. 28, which is drawn to quarter-inch scale, the horizontal line
+========
+A is the axletree,
+========
+B is the wheel at rest,
+========
+C is the wheel on full lock,
+========
+D is the back of the arch,
+========
+E shows the circle that the wheel will describe on the ground as it moves backward, and
+========
+F is the circle the back of the wheel will describe in the air at the same movement. It will be seen by this that when the wheel is on half lock the back part of it will come in contact with the arch, and that when on full lock it will have travelled right away from it. It follows, therefore, that if we want to find out the right position for the perch bolt to occupy, we must not measure the circle the wheel will describe on the ground, but the one described in the air. We must, therefore, measure along the line
+========
+F, and carry that measurement along to
+========
+D.
+========
+A to
+========
+D is exactly 3 feet. Now the
+========
+[92] position of the perch bolt, or centre point on which the wheels lock round, need not be, and in fact very rarely is, in the same vertical line as the axletree. By compassing the beds or timbers on which the fore part of the body rests and through which the perch bolt passes, the centre of the circle described by the lock may be carried forward. Thus, if the beds be compassed 4 inches forwards from the straight line
+========
+A along the axle, the centre will be carried forward 4 inches, the result of which will be, that when on the half lock the back part of the wheel will be carried away from the arch 2 inches, and that when on the full lock the wheel will stand 4 inches from the position it would occupy if the bed were straight. The dotted lines below
+========
+F and
+========
+E in the figure show the result of this difference in the shape of the bed; and it will be seen that to get a 2-inch clearance of the arch from the back of the wheel without carrying the wheel itself farther forward than 3 feet from the back of the arch, we must compass the bed 4 inches, the compass mark being to the centre of the substance of the bed.
+========
+In the fore-carriages for one-horse vehicles, and two-horse vehicles as well, the shafts are carried by “open futchells” (F, Fig. 30); and in the fore-carriages of two-horse vehicles the pole is carried by “close futchells” (F, Fig. 31).
+========
+A reference to the figures will make the following remarks more clear. The central circle is the wheel-plate, or, as the Americans term it, the fifth wheel. This is flat at the bottom and round on the top, and being fitted to the under part of the top carriage takes its bearing on the bottom carriage, and by its extended circular formation gives steadiness to the body when the carriage is running in a straight line, or when the fore-carriage is on full lock. These bearings are at the back ends and fore part of the futchells, and at those points of the bottom bed which are covered by the wheel-plate. The fore and hind bearings are of ash timber, and are necessarily circular in form.
+========
+[93]
+========
+It will be seen how imperative is the necessity of the wheel-plate being a perfectly true circle and of its taking a perfectly flat bearing; the forging and finishing such a piece of work requires, therefore, peculiar care and skill. In the figure showing the open futchells, the stays which run from the back end to the front of the futchells are the wheel-irons, the back-stays, and the bed-clips in one. They clip over the ends of the bottom bed, and being at these points made flat, they are cranked downwards to take their bearing on the spring-block, and here they are fixed to the springs either by means of bolts passing through them or by clips and couplings. The best plan is by the latter, as when they are bolted on holes have to be drilled through the springs, which renders them weak at these points; the same may be said of the manner of fixing the bottom half of the spring on to the axle.
+========
+The wheel-iron, bed-clip, and back-stay being in one, a good opportunity is afforded to the smith to display his skill and taste, as it is desirable that this piece of workmanship should be well forged and fitted, and at the same time a certain grace of outline must be given to it, otherwise the appearance of the vehicle will be spoiled. When it is finished it should fall into its position and take all its bearings accurately without force being used, for if in bolting on any strain should be put upon it, in order to get it into its place, it will be liable to snap on meeting with an obstacle on a rough road.
+========
+The English coachsmith ought to possess a better knowledge of metallurgy than he does. All smiths get a certain rule-of-thumb knowledge, but what they should possess is a thorough scientific knowledge of the properties of the metals they are dealing with. We cannot enlarge here upon the subject, but the artisan will do well to study a work like “Metallurgy of Iron,” in Weale’s Series; and if it only teaches him to tell accurately the good qualities of metal from the bad,[94] he will have a greater knowledge than a large number of coachsmiths have. For general purposes it is as well that he should know that perfectly pure iron is so soft and tough, and at the same time so malleable, that it can be rolled into sheets ¹⁄₃₀₀ part of an inch in thickness; and that when wrought iron can be twisted, cold, into almost any shape without breaking, he may rest assured that it is as near pure iron as any one could wish to have for the proper execution of smith’s work.
+========
+Fig. 29 illustrates a light fore-carriage, with drop pole and shafts, suitable for light phaetons, coupés, and Victorias.
+========
+The portion marked A represents the lower part. The new mode of constructing this carriage is the doing away with the bent futchells and using puncheons in their places. The inside front-stay is forged in one piece; in the centre is formed the socket to receive the king or perch bolt. The stay rests on the top of the two puncheons. There is a T plate formed solid with these stays running back to the bed, and at C forms the inner part of the socket for receiving the shafts. The back-stay passes around under the puncheons, crossing the bed to the front and bolted where the front-stay crosses the puncheons, the other end extending to the front, forming the outside of the socket for receiving the shafts. C C represents a piece of hickory bolted between the two stays.
+========
+The following dimensions applicable to the figure may be useful:—Springs 1½ inches thick, consisting of four plates 37 inches long, 11½ inches opening, which maybe varied to suit the body of the carriage they are intended for. Lower bed 1¼ by 1⅛ inches; ⅜ inch plate on the bottom. Wheel or stay-iron[95] ½ inch round, increasing the size to the puncheons. The box clips over the bottom bed with clip bars, which are worked solid. The clips are put on from underneath the springs, and are secured by nuts on the top. The size of the half-wheel iron is 1 inch by ½ inch.
+========
+The portion of the figure marked B gives the upper portion of the fore-carriage.
+========
+Fig. 30 shows a fore-carriage with open futchells. A A is where the stiff bar detaches to receive the shaft of the drop poles, the futchells extending to A A. The wheel-iron or stay on the outside of the futchell extends ahead 5½ inches, and also the plate on the inside of the futchells the same distance. These irons require to be a good thickness and tapering to the end. The blocks are fitted on to this space and scrolled at the end. The dimensions given for Fig. 29 will apply to this, and it is used for the same light vehicles, only that a pair of horses are used instead of one.
+========
+Fig. 31 shows an arrangement adapted for hard service. With this kind of wheel-plate we get a good bearing when it is turned under the body. These are made solid, with a plate on the two beds. A is the perch bolt.
+========
+[96]
+========

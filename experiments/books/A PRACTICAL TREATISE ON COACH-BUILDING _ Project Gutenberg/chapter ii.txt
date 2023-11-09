@@ -1,0 +1,67 @@
+
+CHAPTER II.
+========
+PREPARATION OF THE DESIGN AND SETTING OUT THE FULL-SIZED DRAUGHT.
+========
+In coach-building, as in building construction, the first thing to be done is to prepare a design of the vehicle proposed to be built according to the requirements of the customer. A scale of one inch to a foot is a very good one for the purpose, though the scale drawings are more often made to a scale of one and a half or two inches to a foot. These drawings (or draughts as they are technically termed), are prepared by specially trained draughtsmen, and it requires no mean skill to produce, on a small scale, a pictorial representation of the future vehicle, truly proportioned in all its parts, and a delicacy of touch in order that the parts may not look coarse. These drawings, if well made (and they generally are), give a very accurate picture of the carriage, and a purchaser is generally able from this to say what peculiar feature he requires, or where he thinks it should be altered; if he can do this it saves a great deal of trouble in the future, whilst the coach is being built.
+========
+For this work the draughtsman requires a drawing-board and T square, and two set squares; as he never has to prepare very large drawings, a board of imperial size will be amply sufficient, and the T square to have a corresponding length of blade. T squares are made of a variety of woods, but the most serviceable is one made of mahogany, with an ebony edge; the most important consideration[23] being that the edge should be truly “shot” from end to end. The set squares should either be vulcanite or skeleton mahogany with ebony edges; the latter are preferable, as they work more cleanly than the vulcanite, which, unless kept very clean, are apt to make black smears across the drawing. In order to fasten the paper down to the drawing board, drawing pins will be required; they are simple pins of iron or steel, with a large flat brass head; four is the number required for each sheet of paper, one at each corner. A very much better way to fix the paper down is to “strain” it to the board. It is done in the following way:—The sheet of paper to be fastened down is thoroughly well wetted, by means of a sponge or large flat brush, on one side (which, it does not matter, but see that your board is perfectly clean before starting); it should then be left for five or ten minutes for the water to well soak into the pores of the paper; when this is done, the paper will be quite limp. Now take a perfectly clean straight edge, or the back edge of the T square, and turn up one of the edges of the paper ¼ or ½ an inch against it; along this edge run a brush charged with glue from the glue pot, or a piece of ordinary glue dipped into boiling water and rubbed along the edge will do just as well, and when you think there is enough sticky matter to promote adhesion between the paper and the board, turn the edge of the paper back on the board (without removing the straight edge or T square), and quickly rub it with the tips of the fingers until it goes down flat all along without any air bubbles: do this to all four edges of the paper, and place in a perfectly flat position to dry; and if the operation has been carefully conducted the paper will be beautifully flat to draw upon, and there can be no fear of its shifting. When the drawing is finished, all that has to be done is to cut round the edges of the paper just inside the glued edge, and take it off. A little hot water will take off the glued strip, and take care to wash all the [25] glue off at the same time, otherwise a smaller piece of paper might stick in some important part, and the drawing spoilt in order to detach it.
+========
+The draughtsman will do well to have a few French curves, for drawing the “sweeps” or curved lines of the carriage bodies, and scales of various sizes, which are slips of boxwood or ivory, on which are marked at the edges various scales, from ¹⁄₁₆th of an inch to a foot up to 3 inches to a foot; and last, though not by any means least, a good box of compasses or mathematical instruments. We shall not discuss the merits of the various kinds of instruments here, but any one wishing to go into the matter may do so by reading “Mathematical Instruments” in Weale’s Series. But we should strongly advise the draughtsman to go to some good maker, as bad drawing instruments only lead to bad drawing.
+========
+The drawing paper used should be of a kind having a slight gloss on the surface, like “hot-pressed” paper, but without its granular texture. This kind of paper is usually called a “board,” as Bristol board, and kept in various sizes, and sold by all colour dealers. Various names are given to it, but it is all pretty nearly alike.
+========
+A (
+========
+Fig. 7); from that set off the height that the body is to be from the ground, indicated by the dotted line
+========
+B, and draw the line
+========
+C, which is the depth of the rocker. This latter is the real bottom of the vehicle, and from it is measured the height of the seat, about 12 inches, shown by the dotted lines on the body. Then from the seat measure 42 inches, the length of the roof
+========
+D. Lay off 23 inches for the width of the door, and draw
+========
+E and
+========
+F. From
+========
+F measure 28 inches, the depth of the back quarter
+========
+G, and from
+========
+E measure 25 inches, which will give the front quarter
+========
+H. Now the curves or sweeps of the body can be put in by means of French curves. From the hinge pillar measure 26 inches, shown by dotted line
+========
+I, and this is the
+========
+[26] centre of the hind wheel, which is 4 feet 3 inches high. The spring is 1¼ inches thick, and consists of 5 plates 42 inches long. The opening between the springs is 12½ inches, the lower one being clipped beneath the axle. Measure 12½ inches from the underside of the axle, which will give the underside of the top spring. 1¼ inches must also be allowed for the back bar
+========
+J, and the pump-handle
+========
+K will be ½ an inch thick. Then draw the boot
+========
+L in such a position that the front wheels will lock or turn under it freely. This may be found by drawing a plan of the wheel as shown, and with the centre of the lock bolt produced to
+========
+N, strike the lines
+========
+M, and it will be seen that the wheels will just clear the body, which is all that is necessary. From this it will be noticed that the centre on which the fore carriage turns is not in the same plane as the axle. This is more particularly discussed in the chapter on wheel-plates. The front wheel is 42 inches high, the springs the same size as the back springs. The draught may be now completed from
+========
+Fig. 7, after having settled on the various heights and sizes, and can be inked in with Indian ink. The dotted lines, being merely constructional, are rubbed out when the drawing is inked in. To complete the drawing, the spokes of the wheels must be shown. These should be neither too many nor too few, but there is no rule which regulates their number, except that there should be two to each felloe. Having inked the parts in and cleaned the pencil lines off, the drawing is ready to be coloured. The colours applied to the drawing are the same as will be used for painting the carriage, so we shall not detail them here.
+========
+S, Standing pillar (developed).
+========
+B, Bottom bar.
+========
+R, Rocker.
+========
+L, Seat.
+========
+From this drawing is constructed the full-size draught, which is prepared before a tool is touched. On the walls of the body-making shop are large black-boards, 10 or 12 feet square, and on these the draughts are prepared just in the same way as described for the scale drawing, except that all the heights are marked up a vertical line which runs[27] through the centre of the doorway, and from this the various widths are also set off. This and the ground line are the first two lines drawn, and it is imperative that they should make a perfect right angle with each other, otherwise the draught will not be true, and the material worked from it will be wasted. This full-sized draught requires the greatest care in preparation, as all the patterns to which the materials are cut or shaped are taken from it, even to the smallest parts.
+========
+The full-size draught also differs from the scale draught, inasmuch as all the details of the construction of the vehicle are shown as in the accompanying cut (Fig. 8), which shows the construction of a small doctor’s brougham, and Fig. 9, which shows the construction of a landau. This latter is a representation of the working draught for the vehicle, and, in fact, is a reduced copy of what would be drawn upon the black-board in the shop, except that some of the minor details are omitted to avoid confusion.
+========
+[28]
+========
+[29]
+========

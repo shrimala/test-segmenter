@@ -1,0 +1,63 @@
+
+CHAPTER X.
+========
+IRON AND METAL-WORK GENERALLY.—LAMPS.—PRINCIPLES OF COMBUSTION.
+========
+In addition to the foregoing, a large quantity of expensive ironwork is used in the construction of carriages; the principal cause of which expense is not the cost of the material, but the highly skilled labour which is necessary in preparing it.
+========
+In carriages suspended from C springs, the front and hind wheels are connected by a central longitudinal timber, called a perch. This has to be plated with iron in order to prevent its breaking when running over bad ground; and without this precaution there is great danger of the perch giving way, as owing to its curved form, which follows the contour of the body, it is necessary to cut across the grain, and thus weaken the timber.
+========
+These wooden perches have, to some extent, been superseded by wrought-iron perches, as previously mentioned, and these have been found to answer admirably.
+========
+In C spring carriages there are the loops, which serve to suspend the body; and these require very good workmanship, for they are curved in many opposite directions, are tapered and irregularly formed every way, yet requiring to have bearing bolts accurately adjusted, and sundry contrivances for affixing ironwork to them, and all this without a single square side for the mechanic to work from. They are samples of great mechanical skill and dexterity of hand.
+========
+[97]
+========
+Other carriage ironwork may be generally divided into stays, plates, hoops, clips, bolts, steps, treads, joints, shackles, and jacks.
+========
+Stays are iron brackets of various forms, bolted by their extremities to such parts as they are intended to sustain or strengthen, but they do not take a bearing on any part.
+========
+Plates are irons which take a bearing throughout their length and breadth on the part they are intended to strengthen, and to which they are fastened by bolts, screws, or rivets.
+========
+AXLE CLIP 
+========
+ CARRIAGE  BOLT   POINTED TIRE  BOLT   STEP BOLT   ELLIPTIC HEAD  PERCH BOLT   T  HEAD OR  SHAFT BOLT    CONE HEAD  BOLT
+========
+Hoops are flat straps of iron riveted or welded together, for the purpose of securing timbers together side by side.
+========
+Clips are a kind of open hoops, the ends of which have a thread run upon them in order to take nuts. The purposes for which they are used is to screw springs and axles in their places without having to weaken them by drilling holes through them.
+========
+Bolts are cylindrical pieces of iron of various sizes (Fig. 32),[98] one end of which is flattened out to form a head, and the other is formed into a screw to receive a nut. The use to which they are applied is to secure the ironwork and heavy framework.
+========
+Steps may be single, double, or treble. In the two latter cases they are made to fold up, and are called folding steps, and may be made to fold up outside or into the body; this latter is the best way, and if they be well managed they do not incommode the sitters inside.
+========
+Treads are small single steps a few inches square, fixed for the most part on a single iron stem.
+========
+Joints are jointed iron stays, made in the form of the letter S, and serve to keep the leather heads or hoods of open carriages, such as landaus, stretched firmly out when required.
+========
+Shackles are iron staples, which serve to receive the leather suspension braces of C spring carriages on the springs; they are also used for coupling springs together.
+========
+Jacks are small windlasses, which serve to receive the ends of the leather suspension braces after passing round the backs of the springs. By means of a wrench or winch handle the jacks may be wound up or let down so as to lengthen or shorten the brace.
+========
+Then we have the hinges, which are now concealed in the door pillar, effecting a great improvement in the appearance of the vehicle, though it necessitates a somewhat stouter pillar than would otherwise be necessary.
+========
+To preserve the ironwork and steelwork of carriages from rusting, it is either painted or plated with some metal on which the oxygen of the air does not act. When it is wished to make it ornamental, carriage ironwork is plated, in which case it is first covered with a coat of tin laid on by means of a soldering iron, with rosin and a small portion of sal-ammoniac in order to promote union between the two metals. The tin being smoothed, a small portion of silver or brass,[99] rolled exceedingly thin, is laid on, and by means of the soldering iron is made to adhere to the tin; more of the plating metal is then added to join the first by the edges, till the whole surface is covered. It is then burnished and polished by means of the proper tools. All articles of iron requiring to be covered with silver are treated in the same way; small articles of ornament in brass, which do not require strength, are cut in solid metal, as it is cheaper by the saving in labour; but for heavy articles, the weight of the metal would considerably enhance the price, supposing that strength were not required. Wheel nave hoops, axletree caps, loops, brace buckles, check rings, and door handles are generally plated.
+========
+The beading, which is used to cover the joints, is of three kinds, brass, copper, and plated copper. It is formed by strips of metal being drawn into a circular or angular form by means of a die, the hollow space being filled with solder, into which small pins of pointed wire are fixed to attach it by. The brass beading is polished; the copper is painted, for which purpose the surface is roughened. As the quantity of beading used is often very considerable, the labour of silvering by means of a soldering iron would be too great, and therefore the plated or silvered beading is prepared from metal silvered in the sheet. The process is very simple:—A bar of copper being reduced to the proper thickness, a bar of silver is then united to it by means of heat. They are then passed through the rolls together, and occasionally annealed in the fire until the requisite thickness be obtained, the two metals spreading equally. This kind of metal is much used in the manufacture of carriage lamps.
+========
+Several kinds of lamps are used in carriages, both as regards principle of construction and form and ornament. In the simplest kind the light is furnished by the combustion of wax candles, which are contained in tin tubes, through a hole in the upper part of which the wick passes, the candle[100] being pressed upwards as fast as it consumes by a spiral spring. In dress carriages, where the lamps are somewhat ornamental, wax candles are invariably used on account of their superior cleanliness, though the light is inferior to that of oil.
+========
+Oil is often used on account of its superior illuminating power. The lamp then simply consists of a tin reservoir for holding the oil, and a round wick of the most ordinary kind, though sometimes flat for the sake of spreading the flame. Reflectors of many kinds are used in every variety of carriage lamps, formed of silvered metal highly burnished.
+========
+Attempts have been made to bring the argand lamp, with a current of air through the wick, into use, but sufficient success has not attended these efforts to make them general, owing to their liability to be suddenly extinguished by violent draughts of wind. This may, however, be accomplished when the scientific principles of combustion and the regulation of the draught shall be better understood.
+========
+By a common lamp is understood one that feeds the wick with oil by capillary attraction, the column of oil being below the level of the flame. An argand lamp, on the contrary, has a column of oil considerably above the level of the flame and constantly pressing upwards to it like a fountain. The motion of a carriage has a tendency to make oil at times flow too rapidly and extinguish the flame, and sometimes to cause too sudden a rush of air up the central tube, which blows away the flame from the wick; and when these difficulties are overcome by ingenuity they become such complicated pieces of work that it is beyond the ordinary “gumption” of the servants to trim them properly, and if this be not done the object of the improvements is defeated.
+========
+The principle of constructing an argand lamp, so that it may regulate its own air draught, is set forth by Lord Cochrane in one of his patents. It is to divide the lamp into three chambers—one in the centre, which contains the[101] reflectors and light, surrounded by the chimney glass, and is pierced with holes at the sides to permit the egress of the heated air and the ingress of the fresh air. From this chamber a tube or tubes communicate with the lower chamber, into which the air tube of the burner descends, and thus furnishes a regulated supply of air. It is evident by this process the air rushing in must be regulated by the air rushing out, and vice versâ.
+========
+The flame of the lamp is not produced by oil or tallow alone, it requires the oxygen of the air to mix with it in order to sustain combustion. This may be proved by putting a glass bowl over a candle, when, as soon as the oxygen is consumed, the light will be seen to go out, the bowl having the remaining constituent of air left in it, viz. nitrogen, which will neither support nor assist combustion. Herein consists the advantage of the argand lamp in furnishing atmospheric air in the centre of the flame. The flame arising from a thick wick is hollow, i.e. it is a film of light, like a bladder, and not continuous, the inner portion of the flame being filled with gas.
+========
+It is well known that if the flames of two candles be brought in contact they will produce a greater intensity of light than if burned separately. Upon this principle what are technically termed “cobblers’ candles” are made. For the same reason lamps are sometimes made to burn two or three wicks, placed just so far apart that the flames may come in contact. This is an approximation to the argand principle, by admitting air between them. But there is one difficulty attending them, viz. the regulating of all the wicks to an equal height, which would be considerable unless the lamp were so contrived that all could be regulated by one movement. If this difficulty can be overcome a very excellent lamp might be made by placing four wicks in a square.
+========
+[102]
+========
